@@ -1,8 +1,8 @@
 # practice
 
 ### Members
-  Hector
-  Amarilis
-  Javier
-  Jaymarie
-  Michael
+  Hector;
+  Amarilis;
+  Javier;
+  Jaymarie;
+  Michael;
