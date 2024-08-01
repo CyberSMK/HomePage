@@ -1,4 +1,4 @@
-# practice
+# Home Page
 
 ### Members
 - Hector
